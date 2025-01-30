@@ -16,7 +16,7 @@ int main() {
 	}
 
 	for (int element : vectorArray2){
-		std::cout << element ;
+		std::cout << element << "\n" ;
 	}
 
 	return 0;
