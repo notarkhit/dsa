@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow .cpp files in any directory
+!**/*.cpp
+
+# Allow directories
+!*/
+
+# Allow .gitignore LICENCE and README.md
+
+!.gitgnore
+
+!LICENSE
+
+!README.md
